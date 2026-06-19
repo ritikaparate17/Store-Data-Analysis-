@@ -35,22 +35,22 @@ The dataset contains information such as:
 ## Dashboard Features
 The interactive dashboard provides insights into:
 ## Sales Performance
-Total Sales Revenue
-Monthly Sales Trends
+- Total Sales Revenue
+- Monthly Sales Trends
 ## Customer Analysis
-Gender-wise Purchases
-Age Group Distribution
-Customer Buying Patterns
+- Gender-wise Purchases
+- Age Group Distribution
+- Customer Buying Patterns
 ## Product Analysis
-Top Selling Categories
-Product-wise Revenue Contribution
+- Top Selling Categories
+- Product-wise Revenue Contribution
 ## Regional Analysis
-State-wise Sales Performance
-High Revenue Locations
+- State-wise Sales Performance
+- High Revenue Locations
 ## Order Analysis
-Delivered Orders
-Cancelled Orders
-Returned Orders
+- Delivered Orders
+- Cancelled Orders
+- Returned Orders
 
 ## Key Insights
 - Women customers contributed significantly to overall sales.
